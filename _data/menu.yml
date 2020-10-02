@@ -1,0 +1,42 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    url: false
+    entries:
+      - title: just your average software developer.
+        url: false
+      - title: github
+        url: https://github.com/riggraz/no-style-please
+      - title: email
+        url: mailto:pranav@pkrshnan.com
+      - title: linkedin
+        url: https://linkedin.com/in/pkrshnan
+
+  - title: thoughts
+    post_list: true
+    url: false
+    entries: false
+
+  - title: projects 
+    url: false
+    entries:
+      - title: currently working on 
+        url: false
+        entries:
+          - title: ventee
+            url: false
+            entries:
+              - title: place to talk to someone around the world willing to listen.
+                url: false
+              - title: talk about anything from dealing with stress to the newest video game.
+                url: false
+      - title: completed
+        url: false
+        entries:
+          - title: aggregate
+            url: https://github.com/pkrshnan/aggregate
+            entries:
+              - title: news aggregator that collects the latest articles from google news, hacker news and reddit.
+                url: false
