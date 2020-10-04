@@ -2,9 +2,13 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: just your average software developer.
+  - title: just your average full stack software developer.
     url: false
     entries:
+      - title: about
+        url: /about
+      - title: resume
+        url: /assets/files/resume.pdf
       - title: github
         url: https://github.com/pkrshnan
       - title: email
