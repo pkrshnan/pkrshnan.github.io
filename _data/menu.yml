@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: just your average full stack software developer.
+  - title: full stack software developer with a passion for books, movies and all sorts of games.
     url: false
     entries:
       - title: about
@@ -15,28 +15,33 @@ entries:
         url: mailto:pranav@pkrshnan.com
       - title: linkedin
         url: https://linkedin.com/in/pkrshnan
-  
+
   - title: thoughts
     post_list: true
     url: false
     entries: false
 
-  - title: projects 
+  - title: projects
     url: false
     entries:
       - title: currently working on 
         url: false
         entries:
-          - title: ventee
+          - title: bingeable
             url: false
             entries:
-              - title: place to talk to someone around the world willing to listen.
+              - title: a tracker for all things movies, books, tv, and games.
                 url: false
-              - title: talk about anything from dealing with stress to the newest video game.
+              - title: integrates with goodreads and imdb to get you the latest possible information.
                 url: false
       - title: completed
         url: false
         entries:
+          - title: uwhvz
+            url: https://github.com/uwhvz/uwhvz
+            entries:
+              - title: website used to track player data for tri-annual game of humans vs. zombies on the uwaterloo campus.
+                url: false
           - title: aggregate
             url: https://github.com/pkrshnan/aggregate
             entries:
