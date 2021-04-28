@@ -2,7 +2,7 @@
 layout: post
 title: "Cyberpunk 2077: With Great Potential Comes Great Responsibility"
 date:  2021-01-06 18:38:16 -0500
-categories: reviews
+categories: thoughts reviews
 ---
 Let me start with a bit of background about myself. I've played a _lot_ of video games, and without a doubt my favourite genre has to be RPGs.
 Some of my favourites include The Witcher 3, Fallout: New Vegas, The Outer Worlds, and Skyrim. This being said, Cyberpunk 2077 has to be my most **favourite one yet**.

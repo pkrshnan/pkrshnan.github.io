@@ -2,7 +2,7 @@
 layout: post
 title: "Maplestory: A Classic With Modern Charm"
 date:  2021-04-12 15:40:00 -0400
-categories: reviews
+categories: thoughts reviews
 ---
 Maplestory is a massively multiplayer online role playing game (MMORPG), that was originally created for Korea and was quickly followed up by a Global release. The main premise of the game is that you start by playing one of 40+ classes, working towards trying to get stronger and eventually teaming up with fellow players in order to take down the "big bad". Classic MMORPG stuff. There's a lot of training, bossing and tons of social interaction involved in the process.
 

@@ -18,8 +18,15 @@ entries:
 
   - title: thoughts
     post_list: true
-    url: false
+    url: /thoughts/
     entries: false
+    category: thoughts
+
+  - title: today i learned
+    post_list: true
+    url: /til/
+    entries: false
+    category: til
 
   - title: projects
     url: false
