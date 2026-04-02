@@ -1,0 +1,63 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0e0e0e;
+  --text: #c8c8c8;
+  --name: #e8e8e8;
+  --link: #7dbb95;
+  --link-hover: #a3d4b5;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  line-height: 1.8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+main {
+  max-width: 560px;
+  width: 100%;
+}
+
+p {
+  margin-bottom: 1.2rem;
+}
+
+.name {
+  color: var(--name);
+  font-weight: 500;
+}
+
+ul {
+  list-style: none;
+  padding-left: 1.2rem;
+}
+
+ul li::before {
+  content: '- ';
+  color: var(--text);
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
