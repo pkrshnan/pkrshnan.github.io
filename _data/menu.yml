@@ -7,8 +7,6 @@ entries:
     entries:
       - title: about
         url: /about
-      - title: resume
-        url: /assets/files/resume.pdf
       - title: github
         url: https://github.com/pkrshnan
       - title: email
@@ -22,35 +20,3 @@ entries:
     entries: false
     category: thoughts
 
-  - title: today i learned
-    post_list: true
-    url: /til/
-    entries: false
-    category: til
-
-  - title: projects
-    url: false
-    entries:
-      - title: currently working on 
-        url: false
-        entries:
-          - title: bingeable
-            url: false
-            entries:
-              - title: a tracker for all things movies, books, tv, and games.
-                url: false
-              - title: integrates with goodreads and imdb to get you the latest possible information.
-                url: false
-      - title: completed
-        url: false
-        entries:
-          - title: uwhvz
-            url: https://github.com/uwhvz/uwhvz
-            entries:
-              - title: website used to track player data for tri-annual game of humans vs. zombies on the uwaterloo campus.
-                url: false
-          - title: aggregate
-            url: https://github.com/pkrshnan/aggregate
-            entries:
-              - title: news aggregator that collects the latest articles from google news, hacker news and reddit.
-                url: false
